@@ -44,10 +44,10 @@ python main.py
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@article{yang2023autoicl,
-  title   = {Auto-ICL: In-Context Learning without Human Supervision},
-  author  = {Yang, Jinghan and Ma, Shuming and Wei, Furu},
-  journal = {arXiv preprint arXiv:2311.09263},
-  year    = {2023}
+@article{yang2023auto,
+  title={Auto-icl: In-context learning without human supervision},
+  author={Yang, Jinghan and Ma, Shuming and Wei, Furu},
+  journal={arXiv preprint arXiv:2311.09263},
+  year={2023}
 }
 ```
